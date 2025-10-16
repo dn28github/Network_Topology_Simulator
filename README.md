@@ -36,5 +36,5 @@ Built using **Tkinter**, **NetworkX**, and **Matplotlib**, this simulator helps 
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/<your-username>/Network-Topology-Simulator.git
+   git clone https://github.com/dn28github/Network-Topology-Simulator.git
    cd Network-Topology-Simulator
