@@ -1,40 +1,40 @@
-# Mini Project Computer Networks – Network Topology Simulator
+# 🧩 Network Topology Simulator  
+### *Mini Project — Computer Networks*  
+**By:** Durgesh Nandini, SRM Institute of Science and Technology  
 
-Developed by **Durgesh Nandini**  
-**SRM Institute of Science and Technology**
-
----
-
-## 🚀 Overview
-
-This mini project is a Python-based **Network Topology Simulator** that allows users to design, visualize, and simulate network structures with live **packet transmission animation**. It’s built for educational and demonstration purposes under the subject *Computer Networks*.
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ---
 
-## 🧩 Features
+### 🔍 Overview  
+**Network Topology Simulator** is a Python-based interactive tool to visualize and simulate computer network topologies.  
+It allows users to **create nodes (routers, switches, PCs)**, connect them dynamically, and visualize **real-time packet flow** through animated transmission.  
 
-- 🖥️ Interactive **Tkinter GUI**
-- 🧠 Create and connect **network nodes**
-- 🌐 Visualize **network topology** using NetworkX + Matplotlib
-- ✉️ Simulate **packet sending** between nodes
-- 🎞️ Watch a **live animation** of packet flow across the path
-- 🔧 Easy to use and perfect for college mini projects
+Built using **Tkinter**, **NetworkX**, and **Matplotlib**, this simulator helps learners understand **network structure, routing paths, and data transmission** in an intuitive way.  
 
 ---
 
-## 🧰 Technologies Used
+### ⚙️ Features  
+- 🖱️ **Interactive GUI:** Add, move, and connect nodes dynamically.  
+- 🌐 **Multiple Node Types:** Routers, switches, and PCs represented with emoji-based icons and hover tooltips.  
+- 📡 **Animated Packet Flow:** Visualize live data packets traveling across the network.  
+- 🪟 **Packet Monitor Window:** Shows real-time updates for source, destination, and hops.  
+- 🧠 **Shortest Path Calculation:** Uses graph algorithms to determine optimal routing.  
+- 💾 **Save & Load Topologies:** Store complex layouts and reload them anytime.  
 
-- **Python 3.x**
+---
+
+### 🧰 Technologies Used  
+- **Python 3**  
 - **Tkinter** – Graphical User Interface  
-- **NetworkX** – Network modeling and graph structure  
 - **Matplotlib** – Visualization and animation  
+- **NetworkX** – Graph modeling and shortest path computation  
 
 ---
 
-## 📦 Installation
+### 🚀 How to Run  
 
-### 1. Clone or Download the Project
-```bash
-git clone https://github.com/dn28github/network-topology-simulator.git
-cd network-topology-simulator
-
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/<your-username>/Network-Topology-Simulator.git
+   cd Network-Topology-Simulator
